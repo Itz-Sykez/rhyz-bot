@@ -1,13 +1,13 @@
-## Whatsapp Bot With Some Unique Features but it can running with termux
-[whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
-![Fork](https://img.shields.io/github/forks/mhankbarbar/termux-whatsapp-bot?style=social)
+## RhyzBot
 
 
-This is a bot , sure this is a bot ! 
 
-## Getting Started
 
-This project require MQTT broker, nodeJS v10.22.0
+
+
+
+
+
 
 ### Install
 
@@ -19,7 +19,7 @@ go install
 
 then ..
 Install chromium browser
-```zsh
+``
 > apt-get install sudo && sudo apt-get install chromium-browser && mv /usr/bin/chromium-browser /usr/bin/chromium
 ```
 
